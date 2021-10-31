@@ -11,7 +11,11 @@ Discovering how the data in the format constructed shows us the comparisons by c
 - Here we see that the more drivers, the lower the cost of the average ride. 
 - Urban areas get more revenue regardless, since there is always a higher population density, and the distance traveled will be less on average than rural
 
+
+
+
 ![Summary_Data](https://github.com/forrestcasey/PyBer_Analysis/blob/main/Summary%20Data.png])
+
 
 
 - We can see the scaling of urban areas>suburban areas>rural areas over a 4 month period below in relation to Fare price
