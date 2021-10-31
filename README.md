@@ -14,7 +14,7 @@ Discovering how the data in the format constructed shows us the comparisons by c
 
 
 
-![Summary_Data](https://github.com/forrestcasey/PyBer_Analysis/blob/main/Summary%20Data.png])
+![Summary_Data](https://github.com/forrestcasey/PyBer_Analysis/blob/main/Summary%20Data.png)
 
 
 
