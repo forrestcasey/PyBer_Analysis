@@ -2,9 +2,7 @@
 
 
 ## Overview:
-
-
-## Purpose:
+### Purpose:
 
 Discovering how the data in the format constructed shows us the comparisons by city type, & how the differences can be used by PyBer decision-makers. 
 
